@@ -1,0 +1,28 @@
+name: FoodTrap
+favicon: null
+layout_spectrum: 0.8028622686397284
+typography_spectrum: 0.515790528152138
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6907941563986242
+  lightness: 0.9168375537265092
+  saturation: 0.5329091476742178
+  rhythmicContrast: 0.4022538859862834
+purpose: []
